@@ -47,5 +47,3 @@ Contributions to the project are welcome. If you find any issues or have suggest
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-Please note that you need to replace the placeholder text with the actual content specific to your project.
